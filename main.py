@@ -5,7 +5,7 @@ import math
 
 WIDTH, HEIGHT = 1000, 600
 FPS = 60
-TITLE = "Gravity Flip: Neon Edition"
+TITLE = "Gravity Flip"
 LEVEL_WIDTH = 3800
 
 WHITE = (255, 255, 255)
